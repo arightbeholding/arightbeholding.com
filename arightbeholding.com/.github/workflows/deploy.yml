@@ -1,5 +1,6 @@
 # Sample workflow for building and deploying a Hyas site to GitHub Pages
 name: Deploy Hyas site to Pages
+# small comment for deploy.yml bump
 
 on:
   # Runs on pushes targeting the default branch
